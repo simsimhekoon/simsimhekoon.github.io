@@ -1,5 +1,5 @@
 # Site
-title:              2015108191 컴퓨터공학과 박세환
+title:              '2015108191 컴퓨터공학과 박세환'
 bio:                '중간고사 대체과제를 위한 블로그 입니다.'</br>'자기소개서는 post에 있습니다.'
 description:        "중간고사 대체과제를 위한 블로그 입니다."
 reading_time:       true
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              tlfqkfka12@naver.com
+#email:              username
 github-url:         simsimhekoon
 #stackoverflow:     simsimhekoon-github   from a "https://github.com/simsimhekoon" link
 #linkedin:          username
