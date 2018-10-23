@@ -1,6 +1,6 @@
 # Site
 title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+bio:                '중간고사 대체과제를 위한 블로그 입니다.'
 description:        "중간고사 대체과제를 위한 블로그 입니다."
 reading_time:       true
 words_per_minute:   200
@@ -38,10 +38,8 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+github-url:         simsimhekoon
+#stackoverflow:     simsimhekoon-github   from a "https://github.com/simsimhekoon" link
 #linkedin:          username
 #xing:              username
 instagram:          username
