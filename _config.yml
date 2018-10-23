@@ -1,7 +1,7 @@
 # Site
-title:              2015108191
-bio:                '중간고사 대체과제를 위한 블로그 입니다.'</br>'자기소개서는 post에 있습니다.'
-description:        "중간고사 대체과제를 위한 블로그 입니다."
+title:              Moon
+bio:                '중간고사 대체과제를 위한 블로그입니다.'
+description:        "중간고사 대체과제를 위한 블로그입니다."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,9 +37,11 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:              username
-github-url:         simsimhekoon
-#stackoverflow:     simsimhekoon-github   from a "https://github.com/simsimhekoon" link
+#email:
+#twitter:            username
+#facebook:           username
+github-url:         https://github.com/simsimhekoon
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -50,7 +52,7 @@ github-url:         simsimhekoon
 #foursquare:        username
 steam:              simsimhekoon
 #dribbble:          username
-youtube:            github
+youtube:           github
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
