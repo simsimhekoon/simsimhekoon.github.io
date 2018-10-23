@@ -1,32 +1,32 @@
 # Site
-title:2015108191
-bio:'중간고사 대체과제를 위한 블로그 입니다.'</br>'자기소개서는 post에 있습니다.'
-description:"중간고사 대체과제를 위한 블로그 입니다."
-reading_time:true
-words_per_minute:200
-logo:'assets/img/logo.png'
-background:'assets/img/placeholder-big.jpg'
-tiled_bg:false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:en_US
-url:https://simsimhekoon.github.io
+title:              2015108191
+bio:                '중간고사 대체과제를 위한 블로그 입니다.'</br>'자기소개서는 post에 있습니다.'
+description:        "중간고사 대체과제를 위한 블로그 입니다."
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/logo.png'
+background:         'assets/img/placeholder-big.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+url:                https://simsimhekoon.github.io
 
 # Jekyll
-permalink:/:title/
-markdown:kramdown
-highlighter:rouge
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
 kramdown:
-  auto_ids:true
-  footnote_nr:1
-  entity_output:as_char
-  toc_levels:1..6
-  enable_coderay:false
-mathjax:true
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
 sass:
-  sass_dir:_sass
-  style:compressed
+  sass_dir:         _sass
+  style:            compressed
 
 # Comments
-disqus_shortname:taylantatli
+disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
