@@ -4,7 +4,7 @@ bio:                '<h3>중간고사 대체과제를 위한 블로그입니다.
 description:        "중간고사 대체과제를 위한 블로그입니다."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/yes.jpg'
+logo:               'assets/img/yes.gif'
 background:         'assets/img/millky.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
